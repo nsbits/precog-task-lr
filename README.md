@@ -1,4 +1,3 @@
-.
 ├── data
 │   ├── benchmarks
 │   │   ├── combined.csv
